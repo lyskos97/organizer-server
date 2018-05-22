@@ -1,7 +1,8 @@
 {
-  "name": "server",
+  "name": "organizer-server",
   "version": "1.0.0",
   "main": "src/index.js",
+  "private": true,
   "license": "MIT",
   "scripts": {
     "start": "node src/index.js",
